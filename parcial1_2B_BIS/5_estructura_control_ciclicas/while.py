@@ -35,3 +35,7 @@ while i<=10:
     print(f"{numero} X {i}={multi}")
     i+=1
     
+
+
+    x=33 
+    # nuevo cambio
